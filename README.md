@@ -2,7 +2,7 @@
 
 ProManage is a production-ready, full-stack project management application built to help users seamlessly track projects and tasks.
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 **Backend:**
 - Python 3
@@ -26,7 +26,7 @@ ProManage is a production-ready, full-stack project management application built
 
 ---
 
-## 🏗️ Features
+##  Features
 
 ### Authentication
 - User registration and login
